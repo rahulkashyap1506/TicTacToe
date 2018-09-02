@@ -2,7 +2,7 @@
 
 ## About
 
-This is a TicTacToe game against a bot.
+This is a TicTacToe game where you compete against a bot.
 
 ## How to run
 
